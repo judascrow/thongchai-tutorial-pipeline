@@ -46,5 +46,10 @@ jobs:
                 "name": "MONGODB_CONNECTION_STRING",
                 "value": "mongodb://cosmos-thongchai-tutorial-dev-001:WKwPFRicFb8QQluu21wuyrmCYw77TsDPNEChxgMJScSPUAq0izI0OthPgSBS4BJFbNTXThozLHaF7tdOiJlGRA==@cosmos-thongchai-tutorial-dev-001.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@cosmos-thongchai-tutorial-dev-001@",
                 "slotSetting": false
+              },
+              {
+                "name": "PORT",
+                "value": "8089",
+                "slotSetting": false
               }
             ]
